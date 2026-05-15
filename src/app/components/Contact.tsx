@@ -111,7 +111,7 @@ export function Contact() {
               </a>
 
               <a
-                href="https://github.com/imad-hadda"
+                href="https://github.com/imad-dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 referrerPolicy="no-referrer"
